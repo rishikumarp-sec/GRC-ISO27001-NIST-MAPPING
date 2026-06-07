@@ -79,20 +79,4 @@ Coverage across all 5 NIST CSF core functions:
 
 ---
 
-## Interview Notes (How to Explain This Project)
-
-**Q: What did you do in this project?**  
-A: I reviewed 15 ISO 27001 Annex A controls, wrote down what each one does and what real-world risk it addresses in a small business context. Then I reviewed a sample ISMS policy document and identified 4 places where it failed to meet ISO 27001 requirements. Finally, I built a crosswalk table mapping 10 NIST CSF subcategories to the equivalent ISO 27001 controls.
-
-**Q: Why did you do it?**  
-A: To understand how international security standards translate to real controls, and to practise the kind of gap analysis a GRC analyst would do when assessing an organisation's compliance posture.
-
-**Q: What did you find?**  
-A: The biggest gaps in the sample policy were the absence of an asset inventory process and no incident response procedure — both are critical for ISO 27001 compliance and would likely be major findings in a formal audit.
-
-**Q: How does it relate to GRC?**  
-A: Control mapping and gap analysis are core GRC analyst activities — whether supporting an ISO 27001 certification audit, conducting a compliance review, or onboarding a new vendor. This project built my foundational ability to read a standard, apply it to a real scenario, and document findings clearly.
-
----
-
 *This is a self-study GRC project. It does not represent work performed for a client or organisation.*
